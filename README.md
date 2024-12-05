@@ -89,7 +89,7 @@ Function to add two numbers and return the result.
 
 Run the preprocessing steps in the main script:
 ```bash
-python WebMining_Final_Project.py
+python preprocess.py
 ```
 ### Train the Model
 
