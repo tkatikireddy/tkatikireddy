@@ -1,4 +1,5 @@
 # Web-Mining-Final-Project
+![CodeT5 Architecture](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e7ea6c5-533b-4a71-a2f5-d1c8824d181c_700x271.png)
 
 This project focuses on preprocessing code datasets, fine-tuning the Salesforce CodeT5 model, and evaluating its performance on the task of code summarization. The project showcases the process of transforming raw datasets into actionable insights through the use of Hugging Face Transformers, Pandas, and other libraries.
 
