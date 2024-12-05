@@ -30,16 +30,11 @@ This project demonstrates the end-to-end process of data preprocessing, fine-tun
 
 ## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install transformers datasets pandas
 
-3. Place the dataset file (dataset.zip) in the appropriate directory.
+2. Place the dataset file (dataset.zip) in the appropriate directory.
 
 ## Data Preprocessing
 
